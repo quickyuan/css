@@ -161,7 +161,7 @@ section{
 	margin: 0 auto;
 /*	position: relative;*/
 	max-height: 557px 100%;
-	background: url(https://photo.yitagroup.com/gd_Photos/test/img/img_2.png) no-repeat;
+	background: url(img/img_2.png) no-repeat;
 	background-size: 100%;
 	}
 .sys_content_center{
@@ -334,7 +334,7 @@ section{
 	flex: 1;
 }
 .cvideo_con_bot .cvideo_con_item:nth-child(1){
-	background: url(https://photo.yitagroup.com/gd_Photos/test/img/img_42.png) no-repeat;
+	background: url(img/img_42.png) no-repeat;
 	background-size: 97%;
 	background-position:left bottom;
 }
