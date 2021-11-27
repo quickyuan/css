@@ -683,6 +683,7 @@ section{
 	}
 	.Detail_item img{
 		width: 40%;
+		height:50%;
 		margin-top: 0;
 	}
 	.Detail_item>div{
@@ -706,8 +707,8 @@ section{
 		margin-bottom: 2%;
 	}
 	.Notes_top_item img{
-		width: auto;
-		height: auto;
+		width: 95%;
+		height: 50%;
 		margin-bottom: 1%;
 		border: none;
 	}
