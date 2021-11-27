@@ -683,11 +683,11 @@ section{
 	}
 	.Detail_item img{
 		width: 40%;
-		height:40%;
+		height:30%;
 		margin-top: 0;
 	}
 	.Detail_item>div{
-		padding-top: 15%;
+		padding-top: 12%;
 		width: 55%;
 	}
 	.Detail_item h3{
